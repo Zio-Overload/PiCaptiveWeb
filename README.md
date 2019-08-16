@@ -1,2 +1,2 @@
 # PiCaptiveWeb
-Captive Web for Raspberry Pi as an Access Point
+Captive Web for Raspberry Pi as a WIFI Access Point
